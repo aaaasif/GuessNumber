@@ -1,0 +1,3 @@
+﻿  GuessNumber.c
+C:\Users\Abdullah Al Asif\source\repos\GuessNumber\GuessNumber\GuessNumber.c(12,10): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GuessNumber.vcxproj -> C:\Users\Abdullah Al Asif\source\repos\GuessNumber\x64\Debug\GuessNumber.exe

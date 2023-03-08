@@ -25,7 +25,7 @@ void guessGame(void) {
       int answer = 1 + rand() % 1000;
 
       // prompt for guess
-      puts("Hey, my friend! I'm Abdullah Al Asif, id 2022521460130, let's play a fun game! I have a number between 1 and 1000.\n" 
+      puts("Hey, my friend! I'm Yao, let's play a fun game! I have a number between 1 and 1000.\n" 
            "Can you guess my number?\n" 
            "Please type your first guess.");
       printf("%s", "? ");
